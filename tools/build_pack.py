@@ -80,12 +80,12 @@ def main():
         raise SystemExit("No valid meme images found")
     manifest = {
         "schema_version": 1, "id": "chinesebqb-astrbot", "name": "ChineseBQB 中文表情包合集",
-        "version": "1.0.0", "author": "原素材：zhaoolee/ChineseBQB 及贡献者；适配：DumKing",
+        "version": "1.0.1", "author": "素材收集来源：zhaoolee/ChineseBQB；格式适配：DumKing",
         "description": f"ChineseBQB 的 AstrBot 适配包：{len(seen)} 张有效图片，{len(categories)} 个原始系列分类。保留 GIF 动画，排除网站和 README 配图，分类内去重。未逐图做语义标注。",
         "homepage": "https://github.com/DumKing/ChineseBQB-AstrBot",
         "license": "SEE RIGHTS.md；素材版权归各自权利人，上游未提供统一许可证",
         "tags": ["chinese", "memes", "collection", "chinesebqb"],
-        "source": {"type": "github", "repo": "DumKing/ChineseBQB-AstrBot", "ref": "main", "subpath": "."},
+        "source": {"type": "github", "repo": "DumKing/ChineseBQB-AstrBot", "ref": "v1.0.1", "subpath": "."},
         "compat": {"min_plugin_version": "4.0.0"}, "categories": categories,
     }
     # Reuse an actual supplied image as cover; never rewrite source image bytes.

@@ -1,5 +1,13 @@
 # ChineseBQB · AstrBot 表情包
 
+> **全部表情资源来源：[zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)。**
+>
+> 本仓库的全部 5,770 张表情图片及封面均整理自该上游仓库的
+> [固定快照 `85f369b`](https://github.com/zhaoolee/ChineseBQB/tree/85f369bb520c44147c7bfc7ee1abf77cface46d1)。
+> 原素材由上游维护者及社区贡献者收集；本项目仅进行 AstrBot 格式适配、分类整理与去重，未修改图片字节。
+> **上游是素材收集来源，不代表每张图片的原创作者或版权人；图片版权归各自权利人。**
+> 上游快照未提供统一 LICENSE，授权情况见 [RIGHTS.md](RIGHTS.md)。
+
 将 [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 整理为 [AstrBot meme_manager](https://github.com/anka-afk/astrbot_plugin_meme_manager) 可通过 GitHub 地址安装的资源包。
 
 ![封面](previews/cover.jpg)
