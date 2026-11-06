@@ -1,0 +1,2915 @@
+{
+  "description": "Omitted; these images are not in memes/ and are not selected for chat.",
+  "images": [
+    {
+      "sha256": "9c8ec401ccb47be0c553b2e36960c68cad3a5b73f45d12f9a5cc6c07bdff1f74",
+      "upstream_path": "000Contribution_贡献🇨🇳BQB/000000000.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b1e879593329d3968bd418c61b04e4330143e088e2bd49d7ab652fb971d8668d",
+      "upstream_path": "000Contribution_贡献🇨🇳BQB/contribution00011.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3e0d1353e7e7ec0b2a5bea54846669a178e30d71c57ce68eaa4560b636b47c64",
+      "upstream_path": "000Contribution_贡献🇨🇳BQB/万恶vtb/250df27e9c8e6c26549a876fbdad61fe8d224229.jpg1180w_1070h.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f84d72cc20af17ac69cd4bcadde2138f535407d5d41477164ab5186a32ca2ecf",
+      "upstream_path": "000Contribution_贡献🇨🇳BQB/万恶vtb/72104f1ab294919b12925486bba2b5f08119f961.jpg476w_248h.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f11e1d0199560b0addd87fe37fbf03c871a54734dffcfa4a0200d3187bee1a9a",
+      "upstream_path": "000Contribution_贡献🇨🇳BQB/精神病院欢迎您-你有病得治.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "28dd992e37102c0ce6962314f38b4892bf70b7b8e6b13fb0860aed2bcd3a583a",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00025-毛巾-布偶滑稽.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "feb846cae37408305b72bc87e07e8f5900a8ba43223d5d42285613ee5c10fe00",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00036-投降.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ac9bbab9e844f33c40c81894ca1c829a7e43e206c819b83afc212303cabc01e7",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00052-蝴蝶结滑稽.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5fd0f7c5a97c7a05967e674630de20ee100a78aa3cf17d664a5bc35cd7bb256c",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00055-晋太元中武陵人捕鱼为业.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "dbd5d563b678ffcbd52e4c1792cebffb6031ace076df252669914f4246a36c7d",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00059-嘤雄气短.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6f5ffdeaed4a1688db2dd76757ffbdfe6eb69aaa61c1190affa7aec8f00fe55d",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00079-受到惊吓.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5e8d0bc1f2611b4a4039d08ad62c718e1202d4dc978f97d02bd979bbc3b8d99f",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00082-滑稽上吊.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "748aa3f6a26c91ce954b1d7582457f9921927f8a8f0b8ba8cca359124f29e024",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00100-老实.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bb86266b97b7671738db326d403c8c065407d08c09699d71d1b13ebbce322765",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00105-滑稽遗照.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "50d543bc95c3322c94bf6e7a20a2b951a0c2bdce1ff9c4f201775be48c453852",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00107-滑稽上吊.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "38be8cb8a0d58fa61a74fff31afde364fc750e9b2312d10d856d24e639b65a80",
+      "upstream_path": "001Funny_滑稽大佬😏BQB/滑稽大佬00108-滑稽刀法.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c046f357c740dda49e933aedb9711d76185c12015224206570e1668ab2be22b6",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00002-吹刘海儿.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "97fe497264f50e5ea5371a49835821f871883f122ea72477499d7574bcb0efd9",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00004-笑-矮油.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "85d92a37773fe040889f354e8cff2a81bf5a9950b1797a506fa350ae803b6cd5",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00007-V胜利手势-耶.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7c3e7b24f0675237d5f63e403f51085368e4db7ef3f668ea3d1361776068d640",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00031-口齿伶俐-碎碎念.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "463e0b9608f3cef99fce236eccbcb5160608175e0df354ec1d3b938485207001",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00033-开心笑-亲亲.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f4c112a1e70832abe1671d9dc52c0988e151fff03880db6905509e6f2be582f3",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00037-眨眼睛-放电.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7a1734bcf760d4511b9ff608e5496188d0977e271feffe67805091e956eae261",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00042-吃-咀嚼-吃酸的-眨眼.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7b932c203da2116d9bf0fe96f7407bba6b0b2e528f0df949f0b46c4d5204e848",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00043-回头.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "aab465ebba78a9b26f6719c5f3b2cc648c05e3ca19e38ddb3584dd6499501989",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00051-风吹脑门儿.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b5bd8f02ca9399bd9a083e8afd31a18cb33b1b4dc04c126891b9d2b0d5c4802d",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00055-我做错了什么.gif",
+      "reason": "decode_error:OSError"
+    },
+    {
+      "sha256": "9f10887bf22775968d755ed29ed4bb67b6819c6ec386deac8d948ea37561a2c4",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00059-战术摇头.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "816e1d0ee29ae018be7e14b3fece318c8aefd937ee77c49a3f450242a0cb751e",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00069-抬头笑.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ceaa6d3719daabc1c091ae1d42407a95bc5be5b7b10401b90e1134fbfcb94a36",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00095-严肃.gif",
+      "reason": "表达严肃状态，无法可靠对应给定情绪类别"
+    },
+    {
+      "sha256": "ba21b3a40af14d045692ed0a1d59cd3a5fab70c4ed59449a2f519e5e342b8798",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00181-手持小风扇吹风散热.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "60e0e307d76a26d98bb4c0b1699385b5b4430a7bece79adda1a48ff9a94ca248",
+      "upstream_path": "002CuteGirl_可爱的女孩纸👧BQB/可爱的女孩纸00184-左右跳舞循环播放.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "01789296805205f529f2f8ab7493c32fda2347c823695cac4760143b15aa0025",
+      "upstream_path": "003CuteBoy_可爱男孩纸👶BQB/可爱男孩纸00025-就是秤坏了.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "50becb38deafb0fcdca48621726f725f9cc4315d05eda6be345b357130ae8ba9",
+      "upstream_path": "004SmirkBoy_假笑男孩👦BQB/假笑男孩00011-敲架子鼓玩音乐.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2167d7aaf6f5b0f39a5b664afb34435c6fa76d99442fb5103aa670c7da500089",
+      "upstream_path": "004SmirkBoy_假笑男孩👦BQB/假笑男孩00014-乖巧看.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f09afc4ac608ae177921a849a1e93a6fed4d06416f7062914238602842f8c0b8",
+      "upstream_path": "004SmirkBoy_假笑男孩👦BQB/假笑男孩00020-假笑丢玩具.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "63ffad871707c928a55a6e86ac554566e71a2475919c8e434d0295ad043c3f03",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00001-看直播猫.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5ad13c9b4557f5663ff9154bdbe14662114d64559d4048bc7a8b1bcfcb3dba83",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00017-手枪猫瞄准biubiu猫.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d70291089a76e920936eddbc2fd0f271783b7633433eaab88e94a55976337b9b",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00020-左右摇摆扭起来-左手右手一个慢动作猫.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "73a256a9639f36a1bb5b0818e14968e78a571f1e474cfccc63b21417305526f9",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00030-开车猫.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6e7e8f03105c51dd71337ef321e5d903e872402f84996d5f83f7be005ac408b3",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00039-舔舔爪子猫.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a1e2b0305ece5ade79eb6c380809aaa2241941925bffe98e497756081a3666db",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00047-我错啦别凶我猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7068f07903d713b022f342f264711889f453b8ce3cd916f69c27d1fd5d61f7ab",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00048-看了我的脚你就是我的人了猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "322c97f26b09f455919b08fd2bf5c8547e3571283a89564688d9d5185e55f752",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00051-汤姆的情人猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a3848f885a7da703bbfeceb0c4b08fa4e7f9d7550b2e30c078ad6d7f1f0384f6",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00052-恰柠檬猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b31dd262043b5260568a4594fae6fe7bfeb94d1788c75ec5b47c9fbd342c9f05",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00054-你好好看看我是谁猫.jpg",
+      "reason": "文字模糊，无法可靠判断聊天用途"
+    },
+    {
+      "sha256": "7e56619bc2633648188c53641721922efd231709a17d47be1f7eb6d205df4c4e",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00057-感到鸭力-感到压力猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "894c7c5b5dabfb64b75ffb9e8f66e0c6743e7b04d8180f42fa1d377925c88df4",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00060-今天的生活也是同样的苦涩猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2573e442bf52cf4a1eeefc7ef7b577e0140cdce858f9813cc6fd6f77cc2041a3",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00068-灵巧的躲避狗粮猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "727dca21f0b15fc594e55722cb86a9d22c2605eafb71206a5d3c79569b1d6414",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00079-左右互博-左右摇摆猫.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "224e7055340324bd61c6217bff2c3bf8162706a3988272762c2650544e1dd5aa",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00082-大屁股弹跳猫.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d1d8698111b58258d3afe7530f9045269c58b306435b067d5c05af47b7501c30",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00084-猫车-自动扫地机器人猫.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "61a8eeec85c1a4e8e60bcc90c263ec233dd00aa0ec811a1939857fecc0ecce25",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00087-戴眼镜歪头看猫.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "fe618fc8473a9df35e0608ab7f926afa4b70872796d0140a829dea5ef8bb21d9",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00090-歪头眯眼猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c6e613a439ccccfaea753842987b5a058c8ddac925734869dbcc4955101dcdf8",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00092-人家就是不行就是爱哭鬼猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "109fb5a18c1ae2ae278febc408361ce655782ccce6b9da02266060ae6ffb3fea",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00094-我跟你讲我很躁你不要以为一杯奶我就没事了猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0e54475da99fb3e9cc42d929d50e722f89cf5f89727ac4eceff6b837b295c51e",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00110-痴呆猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6060b404ffe591136681f8445c7d8513467a3a6698519e00b6ba9afc1ab6165a",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00122-比心猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e194a2f33241e818f8d5de6c84f024245e8351b3a336778ae9ecfacf358927f6",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00127-我要把你日的喵喵叫猫.jpg",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "e61819ee6fb426696893cd4a56ed02010e8e645fd25b9b7954ec641eeefe1cf3",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00138-我要X你五次猫.jpg",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "026ea580b09eb0527a616e3010cdf35d9a45260b169f1b78a5cda1c82bb040f2",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00167-裹紧小被子猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "260da01782332810ee84fd52306a313d63d4c9e59416919a1b2460cffc34fe81",
+      "upstream_path": "010Cat_是喵星人啦🐱BQB/是喵星人啦00174-坐立猫猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "50b0e35d853ddb788e59988574fa015b4d641099b7498c9d7bdce665cf48030b",
+      "upstream_path": "011Dog_狗🐶BQB/狗00005-扭屁股.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "50e2704d3e38d6de2a7e589c99c5032634ee791aa5e0ff1e4b4fea9af123954f",
+      "upstream_path": "011Dog_狗🐶BQB/狗00008-荡脚踏板.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "41d468de5d5848c73bf9eb951b880cbf4168fb01f11a02a2d298e7f0b2991633",
+      "upstream_path": "011Dog_狗🐶BQB/狗00013-是什么遮住我的双眼.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "72beffd03614687d38dfdb6b516583fc0b4758a1b518ca41c22007a0d1b8a78a",
+      "upstream_path": "011Dog_狗🐶BQB/狗00015-捏脸.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "fc96204b88832f9dadb9e277d2c154558f95ab7a70313d12347d478ef9780eb3",
+      "upstream_path": "011Dog_狗🐶BQB/狗000170-被命运卡住喉咙-绞杀.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6561ffb44cecba294d0a519982f384245c6c6c597e721b188df379a99001989c",
+      "upstream_path": "011Dog_狗🐶BQB/狗00020-挠头.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f311b2266eac4e79e8d5963dcac6881c5bdd990c048138bf398b3afdf39651eb",
+      "upstream_path": "011Dog_狗🐶BQB/狗00022-手动狗头.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d63dad2e9f2726d4a9dc3894b0e8e7b986d817c684a3ec0aab96a5329b8073ca",
+      "upstream_path": "011Dog_狗🐶BQB/狗00028-舔狗.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "64de8c6ced76072a69ab17904e95b64e9ebef068735415330eed2f933183708c",
+      "upstream_path": "011Dog_狗🐶BQB/狗00032-看我眼色-眨眼-放电.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bc2d5fbd4415e5c0f0599fe06561fefb3c90cb5c7e22ee6aaa0dbb4fb5e52667",
+      "upstream_path": "011Dog_狗🐶BQB/狗00033-抱树.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9426a2427eaadf139526129cfb0ea921724a12034ae5aa7260daa095f0ceb061",
+      "upstream_path": "011Dog_狗🐶BQB/狗00035-被命运卡住喉咙.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "480bc859554e95cdae39976f883b112ee0175b57f52c14a765a35605a60a4c77",
+      "upstream_path": "011Dog_狗🐶BQB/狗00036-打屁股.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cb07aa9eac3904d4aa81a79d62f3e5e754855044c7f58e63769f8dae0340a616",
+      "upstream_path": "011Dog_狗🐶BQB/狗00038-平躺锻炼.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bf4fdb6751fe93b24f7c23b8662606131d2b19923d963bb1207f4c81e14f290f",
+      "upstream_path": "011Dog_狗🐶BQB/狗00043-敷面膜.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "dffec74b3e7a7c935ef055b560a0166e06d03c0ae8c90381db113b32c7c05d05",
+      "upstream_path": "011Dog_狗🐶BQB/狗00045-大狗脸.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b0676c4bd6e31ff4eac64bc409736d3dc773d8fc65472f6c7c296294856724a5",
+      "upstream_path": "011Dog_狗🐶BQB/狗00046-行吧.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "094b72572749d475ff8655527e1ac79f6c949dd0cdb12ac7a0d55df71f2f41f6",
+      "upstream_path": "011Dog_狗🐶BQB/狗00048-有较强的自我管理意识.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ce8d5aeb7ce4f32ae0ebdc9f9f79e2757b8d2ce5b2c6c7ad048eb92ed20a8a85",
+      "upstream_path": "012Parrot_鹦鹉🐦BQB/鹦鹉00003-老公睡我睡我.gif",
+      "reason": "文字包含直接的性行为邀约"
+    },
+    {
+      "sha256": "a8412992703415c5623753a661168c040688452ffd658bd939dff26264900a02",
+      "upstream_path": "012Parrot_鹦鹉🐦BQB/鹦鹉00011-嗨起来.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "af76cf572d6eb565570f7ae0c17319debdef2c252cee1be9d603d025116267a3",
+      "upstream_path": "029Pigeon_鸽子🕊BQB/鸽子00002-像鸽子的鹦鹉.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f83d0056515165c81879935632491b4d2afcc1692abf87848dc8402636d74b6c",
+      "upstream_path": "013PigPecs_小猪佩奇👑BQB/小猪佩奇00021-能给可爱的小女儿一些生活费吗.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2551f3bb9065c0547c80796d7745946759e6d831b715a6451f2f35fd5c769f34",
+      "upstream_path": "014Pig_猪🐖BQB/猪000021-跳不远飞跃失败.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d72fa1106651c7cf16f4dc6edc6dbd3d5ee5ea8205c140a815329f2714c90c78",
+      "upstream_path": "014Pig_猪🐖BQB/猪00003-小猪游泳.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2b373e22f473e445695174d06b1f6d51768d4453fae206d450fff2424d89b91c",
+      "upstream_path": "014Pig_猪🐖BQB/猪00005-盯.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "108e2fd4773a9f37b967d3221a5c4876c22fb16431bed607f29228cad1144f35",
+      "upstream_path": "014Pig_猪🐖BQB/猪00010-抬头.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e9135fbd42f3530aa16db9d34484cada5c9dc5b3d39ad35e1923a6fdb9c4616f",
+      "upstream_path": "014Pig_猪🐖BQB/猪00011-打你.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6b2f0280b3a8a8ee2e6de8fc0799b9d42051cd01ef60e40a40b46513a2a2b6e5",
+      "upstream_path": "014Pig_猪🐖BQB/猪00013-黑白猪mua.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "179c664484b8b41b0c1c436fb28c93a78723efcd8d0e58b370486dbc4c715be6",
+      "upstream_path": "014Pig_猪🐖BQB/猪00016-洗澡.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8b9149692c829bbedcb7077ce96d84e5267e9903a21d9ff27cc2d2c3279858a7",
+      "upstream_path": "014Pig_猪🐖BQB/猪00017-猪洗澡.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9f8a410632803b52e0bfa33c94b5b524326e525692b5b4ccb76d7d190f0dce97",
+      "upstream_path": "014Pig_猪🐖BQB/猪00018-猪侧躺.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "78b050fd3fd47d8378f26b3969b797ab9dd1fef58f985fb2c92edd6de9ec86e8",
+      "upstream_path": "015Golden_Curator_Panda金馆长熊猫🐼BQB/金馆长熊猫00010-互联网暴力.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "15f1cfa22c6f5968d4a544d00db60e8fbf12a9fa66fdca14ac4de1d854e91590",
+      "upstream_path": "015Golden_Curator_Panda金馆长熊猫🐼BQB/金馆长熊猫00056-伸展运动.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f13d61e77e0818828b4a2b1be46e8cb74ba92981e4b91c35dd0268cbce2f7734",
+      "upstream_path": "015Golden_Curator_Panda金馆长熊猫🐼BQB/金馆长熊猫00102-性别重置了解一下.gif",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "c3dd35db20a7cecb4bca0251da26a7691b126b0373967f8b7c39ab46beac1a1d",
+      "upstream_path": "015Golden_Curator_Panda金馆长熊猫🐼BQB/金馆长熊猫00176-找人开黑-有没有那个就是ADC疯狂输出然后打野疯狂带节奏中单疯狂单杀上单又控又肉又稳贼6的队伍然后缺一个会喊666我操什么伤害牛逼牛逼清清兵就能赢的位置.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6d5b703a1f9017390b22ce8517c734cb7500c4eaa082f152e61c7c095b5da51e",
+      "upstream_path": "015Golden_Curator_Panda金馆长熊猫🐼BQB/金馆长熊猫00193-无语.gif",
+      "reason": "底部文字无法辨认，指向动作用途不明确"
+    },
+    {
+      "sha256": "bfe312843c0fe4e1d318f70d24413a61d13acf57f338fe9b5bec4a8db7619177",
+      "upstream_path": "015Golden_Curator_Panda金馆长熊猫🐼BQB/金馆长熊猫00205-接.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b23a0b7cc44b17f3215121560dc1e5f0dcda875972760a7e421ae3d6e3954549",
+      "upstream_path": "015Golden_Curator_Panda金馆长熊猫🐼BQB/金馆长熊猫00206-接红线.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5ccecbe6aa24397569f706340c040b3255f368796c1631777838daa09222e1f4",
+      "upstream_path": "016spray_喷雾🚿BQB/喷雾00007-墨水喷雾.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0c05a0b96c17b16d5c19b2590247104b99727a9c447da1a2f02da10488f90be1",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00002-弹琴.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "79d30f9d5b82e58b3fe4f40b9b8c90b30620adf1ca179e8bb2d612fc281f3bdd",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00005-敲锣.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5fb50701b94baa839851a608d0d6dcd3ccae5299c4ef4cad689d52b27d51a72c",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00006-拉二胡.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b149a24314e67ef2529e6a7fb8864a5918c171ce41ad7d54015098c4acf5cfd7",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00011-打鼓.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "89d6f449d0fc2f8bee68a59957cc0e1bc2e13e0a16431bc7fa03eda106ad85f5",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00012-弹琴.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6a299bb83d588f8e132c348b764131ceed408a391b2c63b5d9458bbf7bd57022",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00013-蒙眼二泉映月.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "948aeeec3d823c84d4fe5dde558f47167ee19b9d878956093d1b9ce2df549ed9",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00014-吹笛子.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b3daed5fc4caa1d5c716fe00d4164637ae90fad45cdbe06dd3ac83ba68a7b525",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00015-敲锣.gif",
+      "reason": "手势模糊且无清晰文字，无法确定聊天用途"
+    },
+    {
+      "sha256": "ad23c436851d079dfbe9261041c2c44d193072b4f70e4ee3e99b8cca5f2261ab",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00016-二泉映月.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "70e99aabbad28b7aa093ec74a480a0cbe296f34e7595b76b6c4113c5813eb0f5",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00018-小提琴.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9f29d703f33153177e68bf127635cd363e56ded7b1cd09fe380ab89ff3527a03",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00021魔法少女弹竖琴.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b7994a4f47ec714a3a57bdebe2bd79d75f3cab1648689f79cce7aab6add8de96",
+      "upstream_path": "017Playing_演奏🎻BQB/演奏00023-拉二胡.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "90f6e3fc3f68d4508e26dc6a9785e55e1adb47b2e6468dcb5858e6a428abc64d",
+      "upstream_path": "018WangEgg_汪蛋🥚BQB/汪蛋00012-准备上吊.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9a0fb5be9143b299c5f8bc3343a4702fd1b584ad58a07cd1f7bc682821557b64",
+      "upstream_path": "018WangEgg_汪蛋🥚BQB/汪蛋00014-打扫卫生.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "64328d519fb6ca96f89c19c09e53524cd3842a0f4dfb13d191a8593f60e69e4c",
+      "upstream_path": "018WangEgg_汪蛋🥚BQB/汪蛋00034-挠一挠.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2e58835bcc868e6d7ddcf00baa0dc31d09d8175339433415d1dddb0d21c31c35",
+      "upstream_path": "018WangEgg_汪蛋🥚BQB/汪蛋00035-点头.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "48ee4bc7c27b9e93a14a65e733062130cb560da483605fd8bd4e5b942e64d10e",
+      "upstream_path": "018WangEgg_汪蛋🥚BQB/汪蛋00046-好刺眼.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6bba9987e7d7f72b693addb614f23503559a832c3991e5dd373cc2456d4ff407",
+      "upstream_path": "019Green_Hat绿帽子🖼BQB/绿帽子00004-绿帽星爆气流斩.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "60856a83f68edbeeee5b68856772882a48d76772caf0dfbb8a18bc4807fe63cb",
+      "upstream_path": "020TATANBQB/小胖男孩00031-逼样的.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2e9b02bdde0c7580caba5db5863de55039bd9fb7262a597cc8558a0733cccd2b",
+      "upstream_path": "021TongfuInn_同福客栈🏫BQB/同福客栈00048-这不整个一傻缺吗这是.JPG",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3b6c7e9608903c28adf2fea74c98b960fcb383d311ef293ce2ddb8ed1042c2f7",
+      "upstream_path": "021TongfuInn_同福客栈🏫BQB/同福客栈00076-叔叔阿姨好叔叔阿姨再见.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4632717b1bf6a8d231c8848bb28c789fd2b24bf1b6ae7b0dc33a61d6b7647ff2",
+      "upstream_path": "021TongfuInn_同福客栈🏫BQB/同福客栈00104-微笑中透露着贫穷.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f58c8c272d34b7ab53d11c88d675668a61af948083d2c7f0134375edb13c2d1a",
+      "upstream_path": "024Programmer_程序员BQB/程序员00008-有rm-rf数据恢复经验.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f9d64857aee4847d9af9c2df27c7dab70eac8b67c7cc9bb4a678a123f94ef5ab",
+      "upstream_path": "025SuperHeroes_超级英雄们👤BQB/超级英雄们00003-灭霸.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bfb93fe32e2991f60faefee35e112b96d25fd3309f9067674fe6cddceefc4529",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-10.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "10b948af19df1a321234f072951ac84c0a4d450bc0722cea54f9da75ee103172",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00004.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "af13f3a54a5ed25b33f6d0b782691826f0e84c87c27be66214ad47335263ff58",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00007.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "63c631c5d69ac984d987a51cbdd5b0ef7ea8a323065982e6ec3ef7824b0c746a",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00008.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4c979ef305532f7356d6824fd99e16be84aab11cad8ce34d2ad89bea2447f1a0",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00011.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2544fa4936c6da64b19e0f29757a711cc28ed49ae733501fa6a7a6dcbbea80b1",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00014.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "45dfde984e03b26b22ff63d5f2a819dce597f5c46f52629d5c896e36666790dc",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00015.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a80e1de75c89962bffc811253f34452f4c7eefe310225b92407d8863dfa3a4f7",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00017.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9acfa0a09b81bead3c0d797e9b62f9779fb96a7efed98cfed625e7325b3bc01d",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00019.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "67e3842135f1ebc4da6caf826371b2725cab5d1941fecb2d78bf0309dc694bcd",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00020.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "16f03129e8de4a93b465d45d629982993a1786905de5799560bb441c3b9580d9",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00022.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3bcc27650af2e622479d0e6f50897d921bdac3eae598459d2529940a01ae0cac",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00028.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b25bc1077b4c4faccc57312e5f6f3ccd06d2704a607400a9ec4d146e76d3ef71",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00030.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1e17a13d22dcbaab2777f2ae4e848a7dcf3038470be37d4a241e854d0ebd447c",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00036.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ac1176758cfa459fdd154cd3ff720859e8b0ab401edd6d2e9b7097f2828d8ed4",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00040.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1957a1ca4ad3cdef177bd97c6fd2c32a6c888b9860023db30dedb28bc58685b4",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00042.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "908028ce78581364bcb5dc83976126d53e5d999a1dcbb4dd23eedbd76fa1ddcf",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00043.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "925025f2f135df95342dfa9d33d71917630b4cb8e060bb73bfa8b93de09bf6ad",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00044.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5c45f32c4775d2bc6a5d31858d3c17ce3e588045c8c09e2c64fb76eb9a36621f",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00046.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8e6f6f3472ecc2d60bc47b52111b03a31e3ae4c506c878c250e895e543386c2c",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00047.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6d32ed57b7425c490eeb9293090f84008c355fcde60a033982a4fc61175324a1",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00051.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0f3d40312a2b1e51dd655099b60ad27082939d9056feb05f831167b4c83156e6",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00052.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ba4907e5778e5834f27c250ee37e739726ce2f67fda3fd46a75d3b7ed97f8cd8",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00054.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b53455b80ac8095c5fe7b67885a2056179e44bcafafe68dfde5208ac886ecf66",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00059.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "be6c22ddaa76c6a7889cce9af56581c69ba1b12f5c9c8ad8a571551e9886f955",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00061.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7103a22c4213519b348d98b7714614ee2b06dbb78aa16da9f7c6fd9d9a20af7e",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00063.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cdc319aeced13bdeb5db2f56dbfe0c994bbba81361a014937dd31009cae9f61a",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00066.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4d8d45a2a098f35a9bcfb7c97ba0a13f7b4946d04a16b1c1426d17303e73e4be",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00067.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "697328394875a0d769d311b5f671d1551daa5a2896afd28dd5b4bc3341390e8a",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00070.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8c27c7109468e754cb32c0fb8627af28247253b7c355c2a4913242d56bb9c188",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00074.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "513e5f2d4b0f836e43beb86692f958b3ed5e97405c193e8642d92d63cdef01e4",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/Chicken00077.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bdee61d2d2399058559bfdcd60f8a19cf9cfe1201aa7b3f06fec51f23bd139ee",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-1.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d05185d00d6b2a9c796d7adee5c75f4ddbd8bff5efa59c6670350be4e3b54c99",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-10.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b0256395f003f8140e532e03bcc4b092a01df68cf7da3f7bd77bbe783c839227",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-12.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b44862b82bbd47bf228873c3c9a3637f6c27ec6a47f57fd7df086d83af58b41f",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-14.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ba410ccee12e7f4cdb2f98134d80e8af49c9f78dc434a973244291cde5a4737c",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-17.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0051a50317d99a4abae1f8b9dbb1b4bc9e2dae6fb0ab70b892c8d725d1d66330",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-18.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4bc8b12261c923d59e2ef9cb15b305e60de4f389dc69f85d3346a7e48c0f871c",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-18.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "29d3a9163a352068413c96e3b95612df4d0bf16fa41454bb8e88859bf0b9ddba",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-19.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3725beaabfd0b2df65639661c91cf64d3877205c086b4093b0f62cc614e4aaa4",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-21.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bbf260202146e09311d93d3a1984b1377f415f994c30c11c0b9b70011d182f43",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-23.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "86570725aec3e4d16332e9d7d8d407850b7dba0b1e47acb7b2e25d39e144b908",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-26.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ad96144b522afbc00abc997061cad89ee98599676e3ff4db61c6d1950cd3ff00",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-27.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a76b58c49ec0a8413502e2a2c6f4be0b09c74b5f18af642ae610e7cfc0d8130d",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-3.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b8df9ef7550c0181ddad215d86163d882c0ccd02f5f50dbab0abc341ce9ad5ba",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-4.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "75abb275bbea3975fbdfd94190191543db2ba3067dbebb87d512b04c2f6e8c5d",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-5.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c947798e9517dd8c52af8b0480e18421190398356b89d6840bf68c1d70fe259e",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-7.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2b46651a2d0a05ff065414aec290c3733b487e70173f6eb4c452181bf2a535b4",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-8.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e749b4908b9e997b6b9df4a01d782345bd55475a84b828a7a67af983f0970d59",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-9.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "55f258e4aabbbdadd421eab74c24b5bb4fd5a9eef6df463257c49bfedd980b88",
+      "upstream_path": "026Chicken_小幺鸡🐔BQB/webwxgetmsgimg-9.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f9c9c7d0f71874b6ed33f9c3911c3faa0dd414fb99e259f394dc38858e546723",
+      "upstream_path": "028JohnRomero_罗永浩🔨BQB/罗永浩00001-打脸.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a65d3695bcfe3d8e7fe673bd6cbf1fe01ccdf2d860956ec6b7ecc1e105f054ed",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00007.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ae9f872cc18317c539d8085530ec9b459d91fda9c932249702a45f14025e4244",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00010.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "962eac1ba3bfdf40f4efba1abbf5d7ce349ee033f5e0be2caebbd3afeace8d1f",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00015.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d9606bec21797277a504b4a3706b9062c0d594dd85dd633e98c9fa14a4e15c8f",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00031.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2c541fad384b64177e8a87104575952402c46bbc18a4d2ab1dd532ac4ab3941e",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00040.gif",
+      "reason": "用途不明确，无法可靠判断聊天情绪"
+    },
+    {
+      "sha256": "a413a0563933fae36b378f1fcc0534bf78cce42ed819d146929b652c6fab4bb6",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00043.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e412dc2c690d5f11f06df549529b3079ccdee8e77599364ae768cec1bbea7d78",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00076.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "dcff2ec159e6c9f553a8e55e25618a1f6c3cd939013461cc989ac6812ebb56fb",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00085.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3bf5371b211db863cfbbf9694f871b9e9c06af7df0436c1c1e505139c8f4d25e",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00095.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9914ec5d2739cdfffb71f2cc54417fef50d74bd9b70da28771081c33343d5111",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00100.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "28f851827df98962aef025ad747a53516fab0a0e9db35cd11548bbac4bfaaf30",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00107.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4afebb3809bf0cbeb21bff00c2693cfe78a78e47076165de45e2869bffda9a87",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00113.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0480cbcc4dc8644842f5da661d1e6c3ca5ab75c038b6d1a11870e8d35f19c0d3",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00131.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "32ca57f114a270ade206490d446e6a457908845c754ed2f44d45f2d3ae9c6050",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00132.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7c9d5894c1671d26ec769fa0d936af88a92e5bd5d26b2f43d06494d7d3d2da8c",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00139.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1b0f0e13690c74a442e3126297466b2ba2b7b8abacfc7b1dd9ff5d104614f4ff",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00140.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "743fd7df2ed98f3633ed3a567745ab17c426b19dd709af848ddb17aa82bc37b6",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00143.gif",
+      "reason": "仅有指示位置的文字与动作，无法可靠匹配所给类别"
+    },
+    {
+      "sha256": "5aadf0c5076f51a18f51786b3a11a8edddc13fcaa8c98bbe2d997c2813c99c15",
+      "upstream_path": "031Penguin_沙雕企鹅🐧BQB/Penguin00150.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "12c2bcf268e692de736ec28081608f2bd90b895f39dabe271656d4c587e92fa9",
+      "upstream_path": "033Eat_吃🍔BQB/吃00004-我饭量很小的一个汉堡就行.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a581d3c64c3cf0572819378c1c958be648adf7867c33fe0a419ee8e133aaac33",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00002.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ab50a8301e956cd080e9607c49c3134fb855630618c35e6ec28fd351154637c9",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00008.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "203a164ee6a34b4df0dd31b49c9bb064d92b04b88a80326ef4d1b1f1f881db95",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00022.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "50a217bce1371ffb59859e4de1f2bb46e889f14f67d4d4050a9a4f30410f9be7",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00023.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c0527ede369769f0bbeda7c7a3709f0067b08ec584f264ce2dc1f6dc216e04fb",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00024.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d61f1928821c0c1deac148736e0003422e04985ddbf6a5db690ec0a77d359f00",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00030.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0b2b5e9d14664a49857fa7d1ec998ba896cf1b69fc8bebecd896d71b2752636d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00040.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "26e445fc2cff26ec0a199ae82e71880cc7c62caead7787acad8bb00d9525ad3c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00046.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9f301f2cd5e8c660f5c1748f6637babed840fc1d6a059dcf19aa1a1afe24193c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00047.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "40fb0f32d59866af19924cacbec66a27228e9a28e8a28083d571cecacafe430c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00049.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f5e6808be5d7e4f399e8653c55272e1fe565240480a29f703247b62a93557d4d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00054.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8311a281a4ceed7c7fbb97f90f1edcc2d2f963b8985e39f050a7efa525bda468",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00060.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a962dab61344222e1929638fe2a906072dd0b56312d68e17c9556f5fa8c82c79",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00061.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "906eead84cc951a3a20ffeb56a3c481430d020eb3bae90e30ee882e3b262bbf1",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00066.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0c75a55377572073556e594a39240d375c6fda5916ab9e4c23c69a0055c04012",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00067.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cc48c73afdbcfd06650ab414f8564e062b68ad3c7c50acc2bc8a0a1ad640ed75",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00070.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b77b87c91154382a7a6bc08a8c31a73c9f0c347753458318cc1b7d6ef0452b9d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00075.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c344aacd3d9a218024680415053f929c1129d80e75c49d79eea4826a62d8baa3",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00077.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "34d130d29a9c9dc168003fa5d049a2a851c4f51560f0fe7518c6b89f066cd3e9",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00093.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "79f4dfab67ba90f8d8b1c758eeb7ecd1ed5c7ed5ba80d658a14947b42d14d371",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00097.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a52f8072c031bda9293ade63785e84313017d46b938a61ea95b27aacc49eec9d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00103.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f725b5fb0bec6e6a5757360ee3879c9e9845fe0eea67d9acf79ef222eba810b3",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00104.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0a8cbb055908609179cc5623fb2b97bd6eaf0fbf2c5cc245d9bb2a7e80937620",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00116.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "779e2997e44cb8298246a22f3974aff2cbb9993279f8dd36f19b08daac8603b1",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00117.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4f565639b6747a34e61a27e022e984a154f9fc3ee41eb9e6450fd97e07250fcd",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00124.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "20d9f953eec7fef3d3794f9a091a09e9a3e20ef22bdd2902dd05eb4e5f80c7c2",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00126.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d518ebb4ec514fdd374bd7e1cbcff4360b7bd04f306e25487e3bbb989af28575",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00131.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "390c917032ec4873e37f66534b729daa364e6529019583afede09b2db082883e",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00134.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "50765201e10ba69c6c9304c31674eb55daa7867567ba638d0d35725683aba6a0",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00137.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d0335102c38aa11d61665be0b53487ab70c53835a757b2cf37148a1eac00f32c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00138.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "736fe5ab859b6e1787eff017a6289e506b17d197d33f68ee1fb7d4f85d48f2ad",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00162.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "66d18db04338f642f4f5c0e2bb709c3083a787744ae3b857616bf4347617f6a5",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00165.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d00fcd40fc264c4a879bd00af98064786d1467a4b1116e928ddf5b2a8376704f",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00168.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "aecc02045104316b980ae4bd93c0f24508c42938ca14835f428cd4a6711eadc9",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00172.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6187855c86d48f08d58cd9cacaeeb0d931db9fbe9aaf6367f8828b36d1148744",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00174.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d285df23be2bc7d8ea1a9da1020391fe65450e98033c79ff557612ec4f6a4f28",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00188.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6e578473fbba566898b32d29503ae7a236f2b37a5813e290bbee596dea1ad5a1",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00197.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b34a6d936ce471d91f32c91a17b767ebbfbb365aadff7765fc39032ab4be5b64",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00201.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f9c57022753fedc80cc5223ca8c2debdb374873bd83e31583e87d4405a6aec62",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00204.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "16c0ef61addb0789fffedff0ef25a58890bd96f7c58d17f42265d350c2c64142",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00208.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "fd824420202ef25c877153ba2d026c3580972410c4d0e7d7eb4c99588b827fc5",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00211.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6ff382e4483a852524306676126949c7c355e5138d461a74bcb57ce18bfab2c3",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00217.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "86904850e0ce1cad2b19bba591e2484ce7a774035737410120a5d74264458a10",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00218.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "689f5d9a662247920d764e90b291afe549bcb8a7ffcb966a64617b96250b758f",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00226.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b1f02e009ebb35bf46d429741d14a7cd8311ffa5eef0e578369322ad8ae1684f",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00230.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b4def13e5ca08747c5985621024af4b4193204dc9674ccb91976dd074e4fbc6c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00239.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4b6e6e064a9578fc9bf08002f56ea0d4315651929382be681307cabc54dc467c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00252.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8a43b8b42089fea3b38c8fd810bdeaa828065b9ba3cf99b914ecbfd41dc1d842",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00253.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d71cd99a214c96e295200eb3e20a8ee3cdda036498d4ecf14490e5095edec989",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00257.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e10db96c1dceab95523ae0e1b2341dbd588953b829ad608fa0224c3221692792",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00262.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0244943c204ce0378bc00c3830e1c7f1b0d938bb89a29aa09249d61fb0c81668",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00265.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "19385ebdf830cf8ab2302c0de75ce8fb54d2bf8a1c63893bcfc5f973b67c8292",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00269.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4ea92dbc3184881a82b67535e3d6b6d21ecf40fd9d89b6c0447e7fc62c7622eb",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00271.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2ae5e3a6533d6cdf5c75dc9627dc9215a12d4ac4cd5116b8e7cdaa4668e4de9d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00274.png",
+      "reason": "无文字，手势和表情不足以确定聊天用途"
+    },
+    {
+      "sha256": "5bddd8f991bf39b80049fabe144cff11d9ca30e960b410b94ce4f657fd0e03ca",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00277.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b785cf34f5a7462e0fa38f3d6188c996369fe3d203fb0f982e16deff5294261d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00279.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "93e20939734aedf911fdd1e6292538f7b4409711ca43d0b069a953cf102bce7c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00289.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "17819432e6d33e5f0716522494e77e4b58c9679692dd7632c50f02b6c69aba82",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00290.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b7e6bcbfaf5b304451ca952dbc6cc4b03bba7644459e5fa2a2efe05a33a22973",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00291.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a3ee98bb51988d8292d4d52bb17ce47e277c2af4d67298778fa576adaf6714a0",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00296.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9eb921e9f36fce4afe5f6c5be469bdd9501f914eb64b27219589cc9ec4f8898e",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00298.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3cfe8c9c9c02846289b80fe5d2755066deec58b507b2a51df4ea36c0afb9a03b",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00308.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "47c6fb0b29e475219791fb4bfdcd0fe868fe5aa041c3ac66851c940380f522b5",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00309.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2465584462a0a53be21625cff61bde68c33755ceac3bc227f4200c52721606e7",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00310.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5f878bef38b7d0c9cfe3f84238714da6c1a76f406afa1ce411b6d13be19f4b73",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00311.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ba9ed89c84522354cf1ae1e1b2c4a2732c00bb5120cc7d2621db671bdcc67357",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00312.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "585f387c71d8788c86ddf67ad07fe7c3977f6d17f5d5312a4f0a9d8874589879",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00316.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "11a59196e893e3144e622ad5b08abd3a8d387ed49a9082b01f53fc5d68acc45c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00323.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "71940b64ed4ec51e4d1aef515e778e9322c9ad6216e58cca71bdfc9bcb4a8074",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00327.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "88c44631f3de9e206f524711a750cab8b487a0a8599e71eb0adbc64ae081e089",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00328.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6a0030737e8ef5249c453302afcce9ce83f5d32343b2e610102c8499f5bdf0d9",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00334.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3713fbf8d08bf2b80d2e5f09d69e0af68e052616be00d57aa2e30b1f74b7f37c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00340.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "70a7e16777f5ef163f38629056e0a980e72986730d12c9926ab60078b315acde",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00351.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0901949128a277ccf666fa213b14ff109d6e3746db6038a50ca4e0f26b116e26",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00353.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "41643c538e9a6b90f50499b2dddadd296f6207ceb6fa0bf41663445ca289d722",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00358.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3cf7b5e80a89d6a85969b0af1e1f8f84f1a921cb24eb646bb10ac8380dc6b388",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00361.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1bae702bd6d9e5aeb7085582ede36cdcc11ef17e4575a0c89fcea4fae3ad6ea8",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00362.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "810bde37080346a39c9a41b6fccfbf62b13740dc5b555095f5ed9192e7e7c664",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00372.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "92d700ec79fa4b44b016e849b2fa90af3087ab0f695064cd5d0870fe42b93f7d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00385.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3a18eb1f7cda7a39fc52af66a55c116f8eede53ffb13ac973671d4fc1ad0ee89",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00388.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c66b98be156eb34f4c3311404293aef689266be53be117833b082c7b0b9c146a",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00393.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5614d0a71077e847b6c083f268e0bbfcf65033b802fa2578f3c84e5ac1eded5e",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00406.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9a63f60bfbc5ad480659bf595622e19e68baddd3ff54080a6806400572a0b48d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00407.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d8f338e10f5048a6141312c64e61ae9e5224f97c31eac1f2edbe695ff82c1d61",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00429.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cb694f4f6ee2fc8ba36bfbf8eb80281890af34c35ef829d3c1d467ddadf70e58",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00440.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "15bbb3abf7efb806f46e634cd23c539264e324f01645ac253de561449bca8803",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00441.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3743ef273f1baf6cda59b36cd91e5c4d7b4972aae3d7955b41613ee8d547ed7a",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00445.png",
+      "reason": "用途不明确，无法可靠判断是赞美还是反胃"
+    },
+    {
+      "sha256": "046046582bedca6ca6badb7ceae7c45e21f38afaf74bf9762a97b6f6b6809455",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00448.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8222985120ce8942cde89bbf854436fd739acbf5c0a18beeb93ec2bbc28c57ac",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00452.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b5cef67d9bc0720644e7bb02e4b1e3ea7a5075246f24e8ed55971452c0284582",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00454.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "75840b25f66dc2b96c3c565e2b400357a972b202d059c47060829c1936445b6e",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00463.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5c062fc630f20e2010d5a6e9def8870a86a3125102666a7c9789ffb18e1ce7ec",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00467.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3ac5b72bb962c74b5c226a628727a536a0b2a27f0fa503d7eab6ef6bec3f0465",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00468.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a1b249d51fe84f41e6c4dde75a5835397a9ff9cc8a2315ce3e8a9645713869ea",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00472.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3b02887e324ac8c284ea6890e1fd02f0b664313998ce7415766f79ca2f328730",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00473.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "71f095cbc0dca421dd830fc6c1a6428bc599236e59fffa96f916393433830b24",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00486.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cda4edb260fdeeee809e356fc7b095ae2a0cc8da7da7c1b79895ea694676b0a6",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00494.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "88284d2ea165e6360935dc4bbfe0fb29cad04071ca0fee69d688ba41f10d256d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00497.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5583235c29a9046c3e5fd46dd2128bc4814b42e4ff51b25c9ca90548084c0ff6",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00499.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "544fab4b1d355bb825927bbc1484a9eeadf6c5b16376e3d28fb18c9f9eb2e598",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00501.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6c3ba7eb7ec368e5ec8fcac3a18e1d047cb931133d6d2b86d7779c3304141c75",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00502.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7fb891dd9db61736219eea35ec979339fd02d4dfb4dd904c6196e47adf5fb4be",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00505.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "22ecd35083b3e0fe6d6240f76176641e39826ab259f5c28c80c7eb7928ff71cf",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00507.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ab6ba9e8b01e233bc2843be22c0e2114e1460cccb4ee24ce4875e03af2a375c7",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00508.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b5807e651e7ca4399c37896e4f4718ff63b77eddcdc9e9eebe840757d638c4b3",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00511.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c69966afb6a4ebd6247f2cc002802d7dd0f35de4e8bcf02bd0320762c969791c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00513.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "32383ed3fbc46206717f70e4f493b58dbfec879cf584c8e36eee6f36b9fbc8d2",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00515.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3156224c4468e042d453ad196820ca79c58a51b51280ae3229df3dc67bd67404",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00519.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "50266c7da30cb29954d9c560148667b3dd122f1dd0cf32966086f3e447c9b26e",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00520.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3883ea2b49ffbe0d1bb6f048b16349bdbc1029f4018d8907a48d98f780d7ec10",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00523.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b2d961f5ee4712d1506f22e2e834bf2a31c838763b62e8c77224059543a5a7ff",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00527.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "52a6674f4c508b7b68eb2151e7d91301fcde6ba60c2d7081e5056fe9b0a8ddf6",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00528.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4ae0c2c6d22d5cd3fadb68beb1b3a6a90af03cb61f2384c81c791a4f3c81092a",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00535.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4ba544f2ffac4e9be76af2044522249f8b6b2b92bb2ffddbbdb0f76c2e007969",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00618.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "833f42aa857d76d3cb506125fd5f4f6bc274253ed9fe04078def799a231a6284",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00628.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6bf430b57bd33d7f470801d442f266a822e7bf69da08a7515d38bf2daa2b85c9",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00633.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3da3b57091b4f3cf19a658e20ddd7221ca8be6a9c458d6eec324f12c1b5103b0",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00636.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ff33dc4475168bb8482c977605b56f9fa2e97c1a342daa46d27e92fc5ac62427",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00638.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7295692938d13d5fd2b795889d9f2b00b1c0b4e15d215d34370d080dfc620036",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00639.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ad0ade000a5b2990e2cf36550e4366397e7cef035fd557da94f01c7eb28da406",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00643.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "29d843105d2ec60617cff02737e2a8061843d8593afe7782a2ed9d0ed1214ce3",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00650.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "305dfe88acb71844691a9d37f5d5b5058dd8e57507f9ad26a56183d8e422b398",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00651.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "110dfd184d6487de6befa4fd8be2855961b3fbd07438fb1e801f5ce94be1630b",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00656.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c635173ecb4cafdb2603c44f616e833cc960399459199cba274fd52eb264d759",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00658.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "01699ad3a4800be5e63afcf7cd8989780f87bdcde25005d2e733772f055f6e18",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00659.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a877f4fcbb504b54e3a1f2ca40f3d31c4e47bd2e82772510534ec3c2de418f62",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00662.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9275c967884bda0098bf195eaa1bc346a58882f99f5637b18fc1ca45bc29bd18",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00667.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bf662d6be6ec298a661ff654096b4253372483c6855ba99538c4a0b4fb48cd5f",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00668.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f825d72a8368d696b7414224a2f1336a45d931a19a8ff1c492e3eab21fd07323",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00670.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "788abc9e990d01e2b51a7bfd190f713f267d28666a1e2a7573b8b77407e2e89f",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00672.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b5b3aace64dd4b3c3b7e69f327a1ec0c215a7ed0498e0bbe2767ddbd78312941",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00675.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "34f7a8937889d247592850c900948246a4a2cbdc404cfea5fba347b275547291",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00680.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6d7285050ece44f78eda3fada00aec373494bd36718c9ca13c406f3eb6ae6efe",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00682.png",
+      "reason": "画面模糊，嘴旁痕迹和动作不明，无法可靠判断用途"
+    },
+    {
+      "sha256": "a0b4ffcd592d91d395163c962cb242ab7a24fe4bad0ff34ddcf30a8cd4402679",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00685.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "29bb2f108946877fccdf9261b2e664419929b3963b5baba42a6dedad133b377c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00691.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bcbaa1c33167646b3c0292137ed64226be32a3ca71e28f43ef0c8fcc4253deb9",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00699.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5418f8bf195630b8efd469865729d5e7a55611749a0e80c69542a172cfb2419f",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00744.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "664d714037c06cf838c8ba28db5f321ace017e3c70bc02f2d3d759a33b2cf1fb",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00755.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "931d6434555680510783f04955dfbb841abd94b9b720d9799431aa17973198ba",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00758.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e20792bd2ac3f2ac8da108658625dd83e6b93440a986b85d3c4d3909592a3838",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00764.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d093335018f129d54d1564c88746c11c26cd9d616cf7e1297777eba424dc1ab3",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00767.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0bfe4e3809203814878573d3400381fa11ed80b123be8bb6da7412543df5220e",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00776.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bf60b167501c5d3892bbdeb5875326599f92795d2b72c37b9d183efedd307a8c",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00785.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5e1fe2aeae27caf09f5475898be81751c4c3a0bdc8c57fd1b3f060c70a357138",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00790.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "464f13bf1a0dc352c133d152b09f8c9c6f4a59053c4a63ef8b05ba0258e87c76",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00793.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "57f91dbeab02d7bf7d3133bec5a43b3e0aecb12181705fead16fb83313c3b9c6",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00794.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "434af54c09710db826f732e75c520d2a69a2c833c2e818bafe3fdae163e12a5e",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00795.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cc2a3a3e938870c8f0a66cc9f816e43008a3e5291a4d1fa21ccd23f5e67c3a24",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00796.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d1070775c88b0674951f5f8a5100a5e974cb90e4954683b1ae38319dee99cd80",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00798.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bb0268892649558a276fdd51200c1230762ad1372324335a9606c89e094769b7",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00804.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1a77ee4493ea6bbf4a1d1ba41f538ab9428ceb4ad8a56f668d090698716af44b",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00808.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a754325da1dbba5bdf532993b5e68b07ef042821c4c6ac7b3a4d38e0e2ef4e2b",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00809.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "fa1286e59cd56a44ce1a3f4f1ca0a595fc593e0ad3a925166ba4d3cd341a8c20",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00825.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "fe21257f030ff8841917345aaabfc564c76727e5ac47e9349647964fa3333601",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00833.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c81161cda59c1244d4ae01ea491751b9e405fd3ffbe9bbf43e364d4d9419a15d",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00834.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "40d367937ebb6d18473394cd10bc1181e68f4e117a58c873693e62df8ae1c818",
+      "upstream_path": "034WhiteVillain_白色小人👶🏻BQB/WhiteVillain00841.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "95b74a02119f70a42813279249a587f74b98929a8818256d6f2420dd1b963de0",
+      "upstream_path": "035TomAndJerry_猫和老鼠BQB/猫和老鼠00307-点火.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d226d97b654df8e40a325670eda98e1f12567c561a542a884e75cb0d382c5e7e",
+      "upstream_path": "035TomAndJerry_猫和老鼠BQB/猫和老鼠00310-吃奶酪吃瓜群众.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d4891e513bbf21caf00112e92f11b0ea3ea1267f7d590d1d4c23f23ed9cb2672",
+      "upstream_path": "038Jacky_张学友BQB/张学友00005-张学友认证表情包.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bbb3a3c558eac431b0f928cedc66565839f4812282a0721e669ced7aa532b55d",
+      "upstream_path": "039YaoMing表情包三巨头_姚明BQB/姚明00005-报志愿的人们.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1c75b235586990c9f770388cf0377ad91f300980603bce2a7ef76c679d6a406f",
+      "upstream_path": "041ChenguoCui表情包三巨头_崔成国BQB/崔成国00005-金馆长张全蛋.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7fe30bce3928649052b149f18b181e28c903fa7e9e13ce156b375b0e704050f5",
+      "upstream_path": "041ChenguoCui表情包三巨头_崔成国BQB/崔成国00006-张全蛋PK金馆长.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c56a27e183bcc840afe0a5427139f76b21ef2640c96fcec412f56cca61a6fb03",
+      "upstream_path": "043Altman_奥特曼BQB/奥特曼00003-校服校霸.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6dcfe7f53e2eb13a22ac268ed42723f9cbdb608ac5324f772914e65e96930342",
+      "upstream_path": "043Altman_奥特曼BQB/奥特曼00005-诸葛亮变色赛文.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0be79291d52755a3fb25ede7bbfbded9351600af8f5a1d859e4fad584eafb84d",
+      "upstream_path": "043Altman_奥特曼BQB/奥特曼00006-奥特曼打工.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "71cd8bc26739842b20096a76e6b281b79cd9ebfbf366cf00e868e4639d96c667",
+      "upstream_path": "043Altman_奥特曼BQB/奥特曼00008-质朴.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8e56dd7dde8940f6ba5b244c34ca1eaf96e72cb1f48d4f581c7dd4dd66782a91",
+      "upstream_path": "043Altman_奥特曼BQB/奥特曼00058-咏春迪迦.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "dcaee5fe1d26796cc348864812b1f804428cff1445b8450aa462edf1cac6478b",
+      "upstream_path": "043Altman_奥特曼BQB/奥特曼00245-孔雀石绿三聚氰胺敌敌畏福尔马林苏丹红硫酸铜.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4441de1958f59225d603e016460f3046ccf2bb1cd0ee0ac1c5a9936e9afa211b",
+      "upstream_path": "043Altman_奥特曼BQB/奥特曼00259-欧布至高剑击.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "079c2db4d8664dc396a00c78dfabfa303bf214480cb76f46a7ee5321787460e4",
+      "upstream_path": "043Altman_奥特曼BQB/奥特曼00267-快如闪电迪迦.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6599dd14072fdaa8e8e33e994e87e647db1a647bd775747101919b19bf775690",
+      "upstream_path": "044YouLe_魔仙王子游乐BQB/魔仙王子游乐00008-游乐娃子在线骑竟车.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d3d5bea5e18856830868019f6075c58fea526715d7094de386e1bf17f6a10dd1",
+      "upstream_path": "044YouLe_魔仙王子游乐BQB/魔仙王子游乐00011-看看我意气风发的样子-看看我意气风发的亚子.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6c650e010dda53d4bd951b2a2a1bd190b7a45c306699951d8e8e82ca1ae1e6c1",
+      "upstream_path": "046WhatToWear_穿什么BQB/000000046.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a5bf7338f97ff6ec7a1ec168cf4de5f6114fe83a71dd6f4b87f2049f2a0db686",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00002.jpeg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9b2b9a93e7928c295438580fa703faed103cea17f5b9a3b7bb7ef044114c4b34",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00003.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ee51d9add541c991b51ad6f265dcf50837c1e28bc3473b3885a4509e60503d83",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00006.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "282566514ba710dfdd181cd7866bf4a6144b76e0150d44599a6f5b0a99a4f42a",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00007.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0665bc798ddf0d031328bd86af28e0dc7eaaf93a907774931fcd4579a7991e93",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00008.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b485fe78ce83d6a2a30cd7095c851b2fd357d0137d2a059ac65709a5304e0c8a",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00009.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5453f62733d68688f412110ae63f0526dccb4a95112100d1fe1c8b6900898e1c",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00010.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d7e0e6519c4c13c5f9febdc3968d76431d733a3bbb45cbd6827fbc2cefe0886d",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00011.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a308a48b79806fe33587e162b7214238c5a0c31a128ba4f30f88f1462e429c21",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00012.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "278ac425e5533f63602e5388af32fccc8e65d953a500276f1b1543aaf08c96ef",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00015.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "45f3854e1b2aacd5b5c753de4e5175a2608856611b7bc58e819b554da541864d",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00018.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f258ee1fbdb1eed6f2bbb5ce4155841af07d43e35be079c264741399c18cc938",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00021.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d2706b0856643db9a488a329b1e5e1343a1c3e76cc468e92ab9f19b9fca9c61f",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00025.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ddd1fcdd1846f129217c5315c949e6b676177869bac4c88c01556482733d0507",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00026.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "05eb92e956a5b6a07c12e582b94e5870d64a15cada73d147db8f4f4ff9b77f7a",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00027.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "93b0fe1c987d9f5a84a4e4ba65c78682ac5544f0ee525acc9746a246ce4a5e8a",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00029.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8d3d3dc58fbc3c2d7c63cb7c3b65e956b0196e3813c4c8a75502d8af8b2511b9",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00030.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "aaef475d41f8610875a141ca333f39b9d0d310f0c5682b007d987725240bcca9",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00031.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c2ffb9075b45ec7663b9f285a0a9e3c859b54cdb080f9618aa17b10155d56c6c",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00033.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "78cea15ae05dbd92df17d848a4111cfb57e4efcfa2a71ad9f59cec5e6248991f",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00034.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4ab4093426152ab9d36dd4b6dbde7f8b2b3ea5b159f1dccc8827e155ffc496f5",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00035.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3363f1d87fa8bb4c24397b477fe76521e7438744643ac27a94cd933bc0447132",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00036.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e7fe410c1f9f0644e1816c055b4aea6c3eecde6a4caa55e5689af89556a64446",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00038.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b3f327b1fccccf05643875e8c926e06250de8975481b2f4a8c2d1264227ae70c",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00039.gif",
+      "reason": "服装装饰文字不清，站立造型无法确定用途"
+    },
+    {
+      "sha256": "e49387b4a31dbbf1c85daf354a37f00405e341a04874c997ee97ab2b5b5f4b01",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00041.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "898d4ac4ce5a8fe979bfc8ec9ecb0f204416ea06f846787cb967955bbbff014d",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00043.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ed6ecc94fc7e815aa4be56d87d6d8f0ba03d6a189a7dbcf76fa10344f59a8963",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00044.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7a5fb8875c12edc4b83ef3e2e04cacb2875af0aab5728b4102646c539696531e",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00046.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "20f931361c79d003b7ee0c8cfc959fafa8b9ade03c796b7e395e6d8aeab41166",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00047.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "afa52f4982233f35479a8c17018cd80ce8082ac7abaca4262380e133b21afba0",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00049.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ed447bbfc6006aed20d63c12841f961328b2526321b53b9dd866bff6066fed5c",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00052.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e5c0000c39002847d8eb0b7cca7f6300823eecbfcda81030f133ce41203f85a1",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00056.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "867078729a2a80129279b8f3a0ab9a10494627813c8d8a8c0d022b7733e85cf6",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00057.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "40ecf4be7cf2ac23c537e0e29781650b0037b6ff9a4fcfdfa8adffccf302794d",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00058.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "276c07d050e37e3c6def346175208bf85f3d201485eeb7bbb0fbe09f236368d5",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00059.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "fe8d62f0b108c4db4eb621a251c80221e69eb40e28b8d4522c151d7464e023a2",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00061.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5ba348e9ba3b7bfdfe8ee6aa1c14d6761c83de2ef1f219640144661db61c5f59",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00062.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cef51848cabb7e7df39a56db208ebc91545d05f35c3850d8299a1f604289d1f8",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00064.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "11ae38d5cd27a909aee5838215caa295b94b806346d73af00f2b588ec557bd0c",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00065.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "86e4a986fe15ac4fe9b5d39d40f57811c50d3b371a13006105c20155e4d3fc71",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00066.gif",
+      "reason": "用途不明，无法仅凭笑脸确定情绪"
+    },
+    {
+      "sha256": "5af510e38d49fcd2c9b651738ae5c30b98db53029356075f74a7628c6b7b289b",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00067.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ee78c699828abf30eee8cfeb8ec80d312d87b77cfb47410146bc814ddfefd12a",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00069.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cb331ad03e932707a2b032ab79e41631ba846148a5724e4c5c3c0718a9a3deef",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00071.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1df3ce3f447f16e6034213533020c9e2c1521790a13fec4d2ed07fd0d95dda04",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00072.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "dfcfc69197dc288bdce18306c2981ebce2aa43390613ba24820646e15c604e76",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00073.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e79f94e34ba644d3d3805961bab141a4b1cf5e7050e0f72f393a89ecafe5d7c8",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00075.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9c8d49b6deb4a8c28a6a9ae8b6d3e282e682d22c3405523f512ff379d1aea063",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00076.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d6d78e4e3ca548f8b314ff277fa4369442315c3ddf7d6b59dddb44548eeea7dd",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00077.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "784f00862847cdca4c0c13d9190698a911569ad77e7fbdeb6ef78d09c047c87a",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00078.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3eaf41d4f96d5a90a00e444f0f223890efe93934319a07787bfda71fe59f2d13",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00079.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b6db1d345b21cb88cb30854e7f17719828e4e1210a2245336a60b1c13c14488e",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00081.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "14c212c23dacfc6fe1c5255dab0cba72aec389f6a3332e9a753ecc6917b5e17a",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00082.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4250021e6f63735bc5c13e16f0a4a4c2cbb882ddac06eb5a43b3a45cd336d92f",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00083.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3a2c7f5623e46e8f7cb906605ea7ee18561e67d72422367cfa2553a4825cc907",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00086.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "82834cae5e2f6419702e298f80f20ca47e3c357ce1bffff3291b870dee241a83",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00087.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "72215a0b755417688682e971563ac58896896175a61c5e651a2fd401c7eaa4a5",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00090.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d2b1bcbd778f55f2e5540ed127bbb2a6e7972a74b9aa0d0997adb36e2417a9c4",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00091.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "731fd6bccf86a4e00471f0f2b4ef967525e94e7cfc1a69fd80019748326c97f8",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00092.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c544601f2e32c449bc210580fa19aee0d67a3e2b36074aa4bcd5dc23c5402e6c",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00095.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "bab903a87227ff1c9b589669a42eff61d43ffefd4203081bce4c06b8f20cae95",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00096.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "de7d05620c0d70a1db66f4b80eab89b5379990ced509b56bbe56a292916284fb",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00097.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f11f0a58e4aa3823f3ad36edbae3d165b79a511fba4c811a0b78b463beba50e8",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00101.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f4277c7c8d6d830dd8fbc865a916a7de8b3aba25fe604fdbfd84ba89c556fdfd",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00102.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d6179741305e4131b4536fb86a82ef7a0dc7b4ca22c4b94e4702895fba474dc6",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00105.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6d14ee73f2a068cba9658498bcfcc1ba23ceae50904fe8f394a58db9ac12b348",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00106.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "81dd79d4a6c2aabd23a36a385c36378480164f018754a05628434e6b74470cb1",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00107.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "eed2eb9279d2223214db1c2a686d97c95fb350b5e78882cc8b5906d42179083a",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00109.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "902d34585d3feac8e620cb3f8e8c8a3a68c6be8b0f12bb976f47a90490f39856",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00110.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e99c444762dbef0fe209a5141a4c2ca6648aadbcae4e41029708e50e7a7b8cb7",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00114.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b3e3527845fdf17b1199cceac42be7fb4cfcedd7a9dc39a425f2fa2499b948be",
+      "upstream_path": "046WhatToWear_穿什么BQB/what_to_wear00116.gif",
+      "reason": "仅有站立造型和微笑，缺乏明确用途"
+    },
+    {
+      "sha256": "a0684672555de12a669a8d2e399160c2353e4ee2fd3ab82c270e2a0a9fec976f",
+      "upstream_path": "050AntiHongKongIndependence_反港独BQB/反港独00003-民主墙.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "73652100a30c9b817bd73b1b8b9bd92720e8f9257a2d4db229ee5be5211ecc1c",
+      "upstream_path": "050AntiHongKongIndependence_反港独BQB/反港独00004-我从未见过如此厚颜无耻之人.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7bc9e04545723f3b5edec04441a6467861025a39c0f86a9123b685a022b5b060",
+      "upstream_path": "050AntiHongKongIndependence_反港独BQB/反港独00026-说的真棒就跟放屁一样.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ba516509d342794ac77c9f841e0f20996dfab7537a7795384d9980538a29263a",
+      "upstream_path": "051Call_打电话BQB/打电话00025-溜了溜了溜了.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d3a5e563317c113fa2b941343418a18c805c71a9012c444bae6c3ca72e949534",
+      "upstream_path": "051Call_打电话BQB/打电话00041-我跟你说件事.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3287509d4bfe1bd7b10c84dcae74f9ce0793dd37b4143996ee29b1a914f711e4",
+      "upstream_path": "053University大学BQB/大学00002-中国科学院大眼睛.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "85879aa1323f1dfb51adc26c348d83ff734dd73afea7bdf699e64b4fb3d51507",
+      "upstream_path": "053University大学BQB/大学00006-中国科学院跳楼.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "37f13724bcfe7e76f7c900b5106c59fd0f55e97b6710500af711041c6dc53382",
+      "upstream_path": "053University大学BQB/大学00007-中国科学院蛟龙.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1579278ec49d1d6f0a628199f6e1706cc9522c9b90504ece7f84f86902e882d5",
+      "upstream_path": "056Doraemon_哆啦A梦BQB/哆啦A梦00004-昏迷.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "485c55d98f2ed666baf33c27ab9a78962bb4002dbb6f6042533856cd12b56a61",
+      "upstream_path": "056Doraemon_哆啦A梦BQB/哆啦A梦00022-大眼睛.png",
+      "reason": "用途不明确，仅见角色站立微笑"
+    },
+    {
+      "sha256": "6cb10f2ac2e5bc7d8b3bb9e12753e143f62aa9e224ee1c060c5a66ddeb109756",
+      "upstream_path": "058_2020Coronavirus_冠状病毒BQB/冠状病毒00013-红包口罩.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e2fd73963970ac402dd7df6e1736b144398b928e085ef06d5c9dd5fce06a35a8",
+      "upstream_path": "059_Couple_Head_沙雕情侣头像BQB/沙雕情侣头像000040-郭芙蓉.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "06382925b36bc045d961ca1cf077c14efca7c1f0bf059cfc6033c9ee08bf0d87",
+      "upstream_path": "059_Couple_Head_沙雕情侣头像BQB/沙雕情侣头像00005-被踢上天.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "23a8bc4f33a7d6314239bf8e45d276c67aa8032e20977d0221b5d0b5ae70e428",
+      "upstream_path": "059_Couple_Head_沙雕情侣头像BQB/沙雕情侣头像00008-狗.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4b53956196fbb3b96e099fde1526a7c5a99f82cc503461ee4a79289c8049a92d",
+      "upstream_path": "059_Couple_Head_沙雕情侣头像BQB/沙雕情侣头像00014-东莞全面清查男.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2cec2607ae594038d99d3bb3ee794e31ae5c4c8299392536d84d366d848dcc96",
+      "upstream_path": "059_Couple_Head_沙雕情侣头像BQB/沙雕情侣头像00016-被痴汉看到的内裤.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "946d2e1000537520513a7a8083019f0d86c3c9352bf992871d9bb0e8b19c93bb",
+      "upstream_path": "059_Couple_Head_沙雕情侣头像BQB/沙雕情侣头像00017-喂熊猫的管理员.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "88b04e2b916c36880a18c068c63e6c828ce685275af9498d69949be0667785e8",
+      "upstream_path": "059_Couple_Head_沙雕情侣头像BQB/沙雕情侣头像00018-被管理员喂的熊猫.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f59d8dae23c51f88f51bec3f25de38fe2743ffba2a279e2cab00e7fddee45bb9",
+      "upstream_path": "059_Couple_Head_沙雕情侣头像BQB/沙雕情侣头像00023-被石蛤蟆咬.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "42515fb0da8cebb5925f4192bf717bce5fe08d70ccc1b6a82438bc6db37c599f",
+      "upstream_path": "060MurCat_Mur猫😺BQB/奇妙猫00004-口水猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6690b2ad370d5038578d98ad9732e0f119ff100309fc4808ee73db36bf4aea26",
+      "upstream_path": "060MurCat_Mur猫😺BQB/奇妙猫00005-眼中星河.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3118a8c51fca765d3afacd02b46701c9f5d7e507f1eb1ce2c5d9b693d1691045",
+      "upstream_path": "060MurCat_Mur猫😺BQB/奇妙猫00006-新年口罩.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a50ade0360628cb88b551e0b116be196b548ffc3500d29743e3f4357dced4318",
+      "upstream_path": "060MurCat_Mur猫😺BQB/奇妙猫00008-暗夜黑猫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a0c1ced369d9eaa4ef5ac3d0e537e0f062ebd3e67a0bcd49c100cc242e3f7e67",
+      "upstream_path": "060MurCat_Mur猫😺BQB/奇妙猫00009-钛金眼.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cbc944d9488fad35acff9cb573889277b15f3b9bf90fabc04ed4012b75a011bf",
+      "upstream_path": "060MurCat_Mur猫😺BQB/奇妙猫00018-卷猫头.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e10405e9c80640b9df932653f1ffb7384ff26d2aaa01a5e55ec07e76d165c39b",
+      "upstream_path": "060MurCat_Mur猫😺BQB/奇妙猫00020-性欲和色欲大幅度提升了.jpg",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "434a62b2b507f38ce1a349eb79e873bd82f8e6732260397a68ad16f69422c20d",
+      "upstream_path": "061KeNan_柯南BQB/柯南00051-认真.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f05467d9e8931f56a09047ab072a5719846c4e945a264712cb69567ab448722a",
+      "upstream_path": "061KeNan_柯南BQB/柯南00096-我叫江户川柯南是一名侦探.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c272330a498c20e4d1242e8cc5a019aefc66e2e622317960530963294ee4f5af",
+      "upstream_path": "061KeNan_柯南BQB/柯南00145-哦.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b97ee311098ad9ea8ae6bec10ef5d0e240d9818db57f8569b2c979217e89d4c2",
+      "upstream_path": "061KeNan_柯南BQB/柯南00156-这是.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b9823b5819de4a0b077a17d6ccc000182d5611754c63a74fd092b4f800f4dced",
+      "upstream_path": "062CaiXvKun_蔡徐坤🏀BQB/蔡徐坤00011-蔡徐坤打篮球.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b3429f587a5f5f3d502419e8857cc0d1f4f88fc40f8c2c8174d82de7abcb11ec",
+      "upstream_path": "064Trump_特朗普BQB/特朗普00006-太空员特朗普川普川建国.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e819527e63775db2361e34a56aa52f7e9443124a0b878120d44b7aa14a08e1a1",
+      "upstream_path": "066Makeding_马克丁🐎BQB/马克丁00005-沙雕们敢抵制我思杰马克丁公司我金勇现在就顺着网线去砍你们.jpg",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "4dc886d927790d4cf786f5744874f3cbc4f2d5815290e0cb55ffbb869f47cfd5",
+      "upstream_path": "066Makeding_马克丁🐎BQB/马克丁00009-Fxxkmakeding.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5d673ace522a5001dd4f8436f995dbc0978b094be07642bed4cf1b7ba40ff8c7",
+      "upstream_path": "067NegroCarryingACoffin_黑人抬棺⚰BQB/黑人抬棺00005-窗外等你.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2aac7f3bd79b8e9bf7ae74777cf1ebc454933482b7e06384386d4cd31f1f8012",
+      "upstream_path": "067NegroCarryingACoffin_黑人抬棺⚰BQB/黑人抬棺00019-路飞索隆抬棺桃之助.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7238419beb15d9c155f43e9df7308d0749d3094f594364e76afb032319664666",
+      "upstream_path": "067NegroCarryingACoffin_黑人抬棺⚰BQB/黑人抬棺00020-抬棺七人众.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1517b7fc7959b62228599e16399ba774658da2a148e8ad93d748ae280473a477",
+      "upstream_path": "067NegroCarryingACoffin_黑人抬棺⚰BQB/黑人抬棺00030-黑人牙膏抬巧克力.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3cbf28c2b2c479e30543976664dd84c5e22e15a9607e7fc3ba4995eaa001bb52",
+      "upstream_path": "068Aqua阿库娅BQB/阿库娅00022-丁丁太小了.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4542ede60b271ce745ad8ef11cfffa5bb771aab2b3f09d3313037d4825241093",
+      "upstream_path": "068Aqua阿库娅BQB/阿库娅00002-被青蛙吞.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1fd4b11787ef24e516209150200c6b335e687a7f401280ce072e4c8e26f4a3ed",
+      "upstream_path": "068Aqua阿库娅BQB/阿库娅00005-表演.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c08bb5adec61232a4400572a9418304fc35e677e4918a30f019bf0e15111d407",
+      "upstream_path": "068Aqua阿库娅BQB/阿库娅00009-打工刷墙.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4bc981b6b7ac64080ee9940b25053714864938a2005ab400c562cc50d186d1b3",
+      "upstream_path": "068Aqua阿库娅BQB/阿库娅00015-智慧的眼神.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "806cd92f20e604abe110e354148112e89ebc59ee57d72ccde21a8dc694238fda",
+      "upstream_path": "068Aqua阿库娅BQB/阿库娅00016-别按错按钮.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d4a4e882af982d7b935eb1dd7efeef3497d3a37b320c8dd0fa78acc44c18bc19",
+      "upstream_path": "068Aqua阿库娅BQB/阿库娅00018-不明人士.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a0db9877f68aee8fa72171b1644407f45bd33a3e0cf5c2233474ca9f953bc574",
+      "upstream_path": "068Aqua阿库娅BQB/阿库娅00020-打脸.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8211e3523dbc1aa90b40f575f9e047293cf863f3a6edd2c8d3d36bbce85612ed",
+      "upstream_path": "068Aqua阿库娅BQB/阿库娅00021-呵呵.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "539f65a85fbf3671144477b194ac3aa7252b2db575b9676e5bce6823c37276b6",
+      "upstream_path": "069Waves后浪🌊BQB/后浪00002-后浪.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c393a660e9b420d74c19e5ad8d159126e38e2046e941a4a5c7ea40d6db9f52aa",
+      "upstream_path": "070JOJO的奇妙冒险BQB/JOJO的奇妙冒险00010-5A空条承太郎.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "38c4f3df77a8240266f9c0c3ab62fbf942baf62112e2c9dc5432088f4b263e07",
+      "upstream_path": "070JOJO的奇妙冒险BQB/JOJO的奇妙冒险00017-空条承太郎的鸭子.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f67f6b1a2debe54891e12dba1d142692fa370b8faa096134e845c89c9d84adc4",
+      "upstream_path": "073腾讯与老千妈BQB/腾讯与老干妈00001-假装联手.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "07290e0e728a0cafdf2828e819f895828a65cd44081486f3ac6975a0c21c4d10",
+      "upstream_path": "073腾讯与老千妈BQB/腾讯与老干妈00007-QQ飞车老干妈衬衫.jpeg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d4387a66c7c59972d09a2c31e290020f25cc3aee69eb6f1e83b86653e41cee01",
+      "upstream_path": "073腾讯与老千妈BQB/腾讯与老干妈00010-老干妈的商标护城河.jpeg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "458481be17645f2b8bfeb603dc37f1b182e8f9e8e892fc86f51ddef8ff4d17f2",
+      "upstream_path": "073腾讯与老千妈BQB/腾讯与老干妈00017-自由女神老干妈.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0af267119f75cc819342be741ace75fd3a8f3da6c729f8018ba0146945399417",
+      "upstream_path": "073腾讯与老千妈BQB/腾讯与老干妈00018-老干妈牌.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a21a15e8bd16064cc8f735bf611c0a1868a61fc87dfc37e987b9293b691976fc",
+      "upstream_path": "073腾讯与老千妈BQB/腾讯与老干妈00024-企鹅取辣椒酱.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2060311912c443bcfe09449ecc08837f8acf321b66cda7955b98c1d91a4dffd4",
+      "upstream_path": "073腾讯与老千妈BQB/腾讯与老干妈00036-老干妈QQ飞车合影壁纸.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4e7177d60ee52d58aaa4afdc119ebec5e0714b023bb7887f520e488ca7ffa657",
+      "upstream_path": "073腾讯与老千妈BQB/腾讯与老干妈00037-老干妈飞车衬衫.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f84f09d3cc505953c72bba5c422e6e837e022f77c837e80bf26307e60ff58eea",
+      "upstream_path": "073腾讯与老千妈BQB/腾讯与老干妈00039-王者老干妈.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b227a1cb20dc86e23c488c76d4ebc5d1f7c999d7105722eace190a3461fe5bd9",
+      "upstream_path": "074BrotherGui_兄贵哲学BQB/BrotherGui00001.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ac0139bb2a3470432b6328eba2f43f5f7875efc1c0a153a1516bc3ae68d2c7fa",
+      "upstream_path": "074BrotherGui_兄贵哲学BQB/BrotherGui00005.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "76e97b1148e43c4f09e87308b67e37cb26912c66c0c11e2c911e4f6020fe423b",
+      "upstream_path": "074BrotherGui_兄贵哲学BQB/BrotherGui00006.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "56e6b70e9a3fac86c49d42e4cfa5fd7f8fdf08611920c107bd7cadd8fa0949c4",
+      "upstream_path": "074BrotherGui_兄贵哲学BQB/BrotherGui00008.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "348c6d9f9a4e2f64332f85daf5c6f3aaa0673b62474eec490af0dfcc5f6985a8",
+      "upstream_path": "074BrotherGui_兄贵哲学BQB/BrotherGui00009.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "48a7c97216802382005c732bc62ad657562b209d68dcb8b4be4fe8feb438b46c",
+      "upstream_path": "078BeiFang_北方栖姬_BQB/北方栖姬00015-冷.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e2488b9281b09d7194ca84a845a2173eca341a73dc3c927370418a9ef7449c4e",
+      "upstream_path": "078BeiFang_北方栖姬_BQB/北方栖姬00044-我是射手座的.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "19f3e921688143383fcb0633935b91fa0243690f4e8f4946a8c9a803550e05bd",
+      "upstream_path": "078BeiFang_北方栖姬_BQB/北方栖姬00050-喵喵喵.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "83dcea4b2a2991ae96690672b1cb3f133cd65fc195006c6c7e13628c90188105",
+      "upstream_path": "078BeiFang_北方栖姬_BQB/北方栖姬00065-害羞.jpg",
+      "reason": "无文字且表情用途不明确"
+    },
+    {
+      "sha256": "fb9969e86529d519e7e41db8e3ea05bc8824bc05040a691a7e83e9991345fe71",
+      "upstream_path": "078BeiFang_北方栖姬_BQB/北方栖姬00167-哦.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6cce0ae9cfab06a748346bb0425568f3d0bcb3a5218cf3be62ddf04af030fe6f",
+      "upstream_path": "078BeiFang_北方栖姬_BQB/北方栖姬00261-不我犯贱贩剑.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2f67632aaca469915e2c817fb190a83b736d8dcd10805ad1401b32ae658ca73e",
+      "upstream_path": "079mabaoguo_马保国_BQB/马保国00008-蔡徐坤马保国打篮球.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0ec6de49aa82db266cd2e58a42f451a09b0e288d781a6299d3260a747cee7dd8",
+      "upstream_path": "079mabaoguo_马保国_BQB/马保国00009-闪电五连鞭.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "390faf625fb78681e96835236269f1c1fc1eac9922725c54ba4e0324b045e313",
+      "upstream_path": "079mabaoguo_马保国_BQB/马保国00013-马保国迪迦大古千鸟流.jpg",
+      "reason": "缺少明确文字，闪电特效与表情无法确定聊天用途"
+    },
+    {
+      "sha256": "10748e1d0723e59e5dc1939373787ef471a7b71212a79d3736b5bd6e04231cb8",
+      "upstream_path": "080GuiMie_鬼灭之刃_BQB/鬼灭之刃00009-笑-炎柱无限列车.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "768610c29baaf94d31b7731cde535cd17740fc01062be9d8b22cfec981c6c3ee",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00002-莱纳你坐呀.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "437dc3792dce21c0af992576ad8323006b2f879df1c0e8e1b42dbf2870a3d259",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00001-戴拿.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "829c258367daeef62eefefc4fb5565fe86522e89395c98db264aaccb0571795a",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00005-杀手皇后谏山创.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d49f0a9218e279bbed943c9fcce8352bd24ef00211372cc521247ad834a2cfd4",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00008-马莱篇冰山.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f147a3e6708fef11afc51a761e54f3c24d222512daf0416f2f4e49a942e73edb",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00009-死亡莱纳每任鄂之巨人.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "5ca8ce2f5c174cdd3cb48f1b9fb83630d991bc608622c8a832787fe6cbce548a",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00012-我老公是利威尔.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "673db8f9bec9a2a45bfc98b3ced255b3775208a760855a6aab82f0fe8365f550",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00013-我谏山创.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cd1088ad307730fe1a80fa65fdae168126b813c1a892f1148ef843861d0f3da9",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00016-利威尔踢.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e347b3f92d1ba73d9474d8ea3e92ed00aeb893a07619087bbfc14f1bf26bcbb3",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00018-利威尔韩吉.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "db0d25f47b3ec3dc16149831e5f38b7880921c0e9db5eda9430f95aa8b07f124",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00019-莱纳替身谏山创.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "dc9f02a6a89e69c576df79065db592fc85b3e47eccab3ef45914b32b35f99f8a",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00030-死神谏山创.jpg",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "4b276170ff66516f5330a603121ab2061d794d328ef04c5e31a3e07a744697bd",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00032-谏山创站立在由尸体堆积而成的顶峰之上.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4d2de981b429a248e99da6df25ee23dac9580c90a9ca899e8f644a74b66f2f6a",
+      "upstream_path": "082AttackOnTitan_进击的巨人_BQB/进击的巨人00040-你是自由的.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2f367c3d3c4f2e5b909cb71dbc7e91a570275d4338a14f769359ac3046845f61",
+      "upstream_path": "084Wuliuqi_刺客伍六七_BQB/刺客伍六七00020-超痛致命打ji.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0ca2535f803a3e31756079460dda2516807a6f9818bb213c4e6ed3586696eddb",
+      "upstream_path": "084Wuliuqi_刺客伍六七_BQB/刺客伍六七00022-吃我一刀.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "66fcb1fc95200124282a655050edea3f4b2c53079b1642aa09ddfa53d530136f",
+      "upstream_path": "086Yangchaoyue_杨超越_BQB/杨超越00032-燃烧我的卡路里.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6b40a9dfd94130cb5eb5e70bcb549082ee40c2c173753628dd58ea1a05b0061c",
+      "upstream_path": "087AgeOfAwakening_觉醒年代_BQB/觉醒年代00014-决战时刻到了.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "46bd791c8f0d1ee226486fbcbf2a9d7144e15d143c12d4550b69010047be9a30",
+      "upstream_path": "088YuanLongping_袁隆平_BQB/袁隆平00006-决定减产.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d660a5745f477162b684fddb446b049a43c0bcc52aa3aebb89de27d118270118",
+      "upstream_path": "090SailorMoon_美少女战士_BQB/美少女战士00005-我来了.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4e9e949a1cc6a18a033c3ff2f39fe27c5c4ae990407f9293b1a2c6c103bc22d3",
+      "upstream_path": "090SailorMoon_美少女战士_BQB/美少女战士00031-那包子看起来很好吃.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "b6752484dd2f8b4040d23d6bc0e674e6102ac085e3ce1ba8459e061bca1cb4b3",
+      "upstream_path": "090SailorMoon_美少女战士_BQB/美少女战士00042-要是能成为朋友的话就能让她教我考试的诀窍了.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8c8e6e877f1353529c19c08a095d8901b9d39f2733f632d4d056c7df3fa17ce1",
+      "upstream_path": "090SailorMoon_美少女战士_BQB/美少女战士00050-法师吟唱.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a6172f7c7548eba4ab751bdc77d69b5904ea84aa5ac55a5b5c8f808511a1c663",
+      "upstream_path": "092LuoXiang_罗翔_BQB/罗翔00008-他虽然是个男生但是他觉得自己生而为女.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ee18fc65761149e239cc0d120033801662382636b8a66a5e9846463c858243ab",
+      "upstream_path": "092LuoXiang_罗翔_BQB/罗翔00020-我醉酒开飞机从北京开到广州机长和副机长喝了两瓶二锅头.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e9b396cb4a6adf6c61f7702f7ceab530f6fead9b3b7c9320f35c6e921f48ea3c",
+      "upstream_path": "092LuoXiang_罗翔_BQB/罗翔00031-精神病人可以不负刑事责任.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cbbcf668ffde746e7bcdb7c5103e8c1cc99b0494d0b622365b0338f77908c8f8",
+      "upstream_path": "092LuoXiang_罗翔_BQB/罗翔00073-因为它是我国刑法的一个耻辱一般是不考的.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ee91fdd8aff65a8bc5037342439f48bb76c5c5f96342037743e01f021eab5a43",
+      "upstream_path": "092LuoXiang_罗翔_BQB/罗翔00080-他死了我才开心他不死我会难过.jpg",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "2cf22df887c53865e46a0d4961f44ceece3753e1ca93b399650cd2076603f1fc",
+      "upstream_path": "093LiAn_李安_BQB/李安00024-我真的凭良心讲.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4766f179ce964787ef6bec879d4b765076fe0b8c36193e1453dbdc27b3905f7e",
+      "upstream_path": "094TeacherWang_夏洛特烦恼王老师_BQB/夏洛特烦恼王老师00007-住手.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "a896c23aa95ce756bef00e643cd0f6c8dc8301438903e12b067e3f63f6692e45",
+      "upstream_path": "094TeacherWang_夏洛特烦恼王老师_BQB/夏洛特烦恼王老师00008-你别在这儿得寸进尺.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "4e5024d439cc602e1c7732eaa6fe4987f32a14c66703861f6408c5f292c21ac4",
+      "upstream_path": "095GenShin_原神_BQB/原神00012-呵.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "223be69b59f7f3cdde803d4142ac968614324bf2cf3439c2ad0989c9226fdc35",
+      "upstream_path": "095GenShin_原神_BQB/原神00028-原神钱包.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "9e859ac29720408a9ce534563873e7292a518d94d684c23344ee061b8b12565a",
+      "upstream_path": "095GenShin_原神_BQB/原神00093-天动万象.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "da04a0b64b79f85e7aaeeab228945e738582dc6f118ff7bd2974306db47ed1e0",
+      "upstream_path": "096NationalDay_国庆节_BQB/国庆节00017-十二张地图七日游.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0a07f303bd66b64e6f5b0de4d69e19fdb0b7d08dadfc1ae3ac0bdddd23a5107c",
+      "upstream_path": "096NationalDay_国庆节_BQB/国庆节00032-某风景区内.gif",
+      "reason": "decode_error:OSError"
+    },
+    {
+      "sha256": "7906ed21aee88ce38306294d76c5269c938a940fbbc36f09ab7bda7757f117ed",
+      "upstream_path": "097Tu_那年那兔那些事_BQB/那年那兔那些事00006-这是你最喜欢的白桦林哦.jpeg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "afbc2c6d290da2155e98f031b979941e34a08b60dd62d32bbaa6bccdc3b0d1df",
+      "upstream_path": "097Tu_那年那兔那些事_BQB/那年那兔那些事00007-对面那个兔子最坏了.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2cdf2eec8fd128ef79bd561cb28dd900901f5c7bf7adeaffb9ca0cf5f2b97577",
+      "upstream_path": "099p5r_女神异闻录_BQB/女神异闻录00004-joker的微笑.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2b0cd8a45babcef00d3067a116cb27470fc64898bb6992dc7df44ac0311ca6f5",
+      "upstream_path": "099p5r_女神异闻录_BQB/女神异闻录00026-不知道为什么今天特别沉重.jpg",
+      "reason": "画面与文字偏叙事，具体聊天用途不明确"
+    },
+    {
+      "sha256": "392e9c6f7ce9b82c9977f46c9f01c999b83f1ba62b5ac18c4713b88979485048",
+      "upstream_path": "099p5r_女神异闻录_BQB/女神异闻录00027-persona.jpg",
+      "reason": "仅有眼神特写与标志，无法可靠判断用途"
+    },
+    {
+      "sha256": "9863b7b71e511ab041a3d336a9eea679931a57d2c8d11d60de8741b0775e273d",
+      "upstream_path": "104JensenHuang_黄仁勋🧩_BQB/0000000104.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "cc2138a062bfd620d0a888a2378e17892233525a3b12340afe0af5c838883fb2",
+      "upstream_path": "104JensenHuang_黄仁勋🧩_BQB/黄仁勋00005-战争机器.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "23454528b3d2de2da13b07b2bc2092435fbfb52a71dd4426e93fdf71adfb939e",
+      "upstream_path": "104JensenHuang_黄仁勋🧩_BQB/黄仁勋00006-舍身炸碉堡.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "1506ecff8020d5ebdb27e73146f8adc791d34b37122961f586b68abaeceb667c",
+      "upstream_path": "104JensenHuang_黄仁勋🧩_BQB/黄仁勋00009-消防员.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3378bfe1becc5b5d5651cd6591e857319a4b5c6b53386aa664ccc5f2a4341123",
+      "upstream_path": "105_BlackMythWuKong_黑神话悟空🐒_BQB/黑神话悟空00020-Xbox与黑神话.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8606ccc4dcbebe8c46ad9a8a0abd22a2b941f105bd59bec0a4e637576fe6c996",
+      "upstream_path": "106_Frieren_芙莉莲🪄_BQB/芙莉莲00003-大喷菇机关枪.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2b31efa5d7b4b52f2d86ba54729272901a0167ae9c267d3222b557bdd2aa5904",
+      "upstream_path": "106_Frieren_芙莉莲🪄_BQB/芙莉莲00017-误差.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "903f104cea206a1c3d1f872e547f74ad05e6863bd619bb852d8c962a721ed16f",
+      "upstream_path": "107_FLittleBrother_葫芦兄弟_BQB/葫芦兄弟00019-不如跳舞.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e33ee7837b1a4976d456ba0041049043a1b7221087316383939d990db5a0cc5f",
+      "upstream_path": "108_Pingu_企鹅家族_BQB/企鹅家族00007-上吊.png",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "07ff259c8cc25d08ffd144d96eef406e4e06a2728bf2c90cbdee09335891b225",
+      "upstream_path": "108_Pingu_企鹅家族_BQB/企鹅家族00007-痴呆.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "7186f423c21d1c1241fecddb698886b018ff70a01c4a40f71a3ffabe826e15f4",
+      "upstream_path": "108_Pingu_企鹅家族_BQB/企鹅家族00007-鼓掌.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "f2924a153abc1e52dd38650817b0d3baa3980d233fde75801afabeed7a5d0e55",
+      "upstream_path": "109_Opossum_负鼠_BQB/负鼠00018-那还说啥跳了bro.png",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "3aecfad8a20030e916a804b3e881e140916a7583ed5a584db083eb5abb1d8c8d",
+      "upstream_path": "110_AI_人工智能_BQB/0000000110.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "3996d44882a7279893eb3d31324fdc873fd0013b139899daad217889025de363",
+      "upstream_path": "110_AI_人工智能_BQB/人工智能00003-砸瓦鲁多.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "db29f206b74abc1f611b65bb98da250956a2c8e9ddde2a4d685874cc377520eb",
+      "upstream_path": "110_AI_人工智能_BQB/人工智能00004-以理服人.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e7eb4e1407d2e8a160bf25746458a6584329325b5b8322bfa3189e39f4bc8168",
+      "upstream_path": "110_AI_人工智能_BQB/人工智能00010-AI-monkey.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "abbdab7cfe4279823f17cacbd29150a56e11d33e6bb1805212b6958bf3c874ab",
+      "upstream_path": "111_TheBoys_黑袍纠察队_BQB/黑袍纠察队00011-绷.png",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "e9d2e35bc65258fc6e6094d2eb9f21f70038b3095152da39d2fa25d7aa12c9e1",
+      "upstream_path": "112PhantomBladeZero_影之刃零_BQB/影之刃零00007-准备好了吗相公.jpg",
+      "reason": "flagged_in_visual_review"
+    },
+    {
+      "sha256": "0ea6e263e3585fe25e0c45dbf2adb8177bc494ca7555259d062eedf41b5aa493",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-13.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "2e591fd9b23d4875db3c71cb37f6c7ca6627bcc1739f1a59f72acd8ee4c2358b",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-19.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "33f31ebc4611034cde26678410a2992b0f778b11a4ebf9ddd90e84894aeb958d",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-2.gif",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "ad219f0db3edf815a0c8e1361d320b50981cebc3803982eff679e6d32df7e293",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-23.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "180fdb4c7ebb2d98bcf60ca41908e189506c3fac3156487154f64e15b88361ba",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-26.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "c24b2dc5f099154e7c5bfd1c71940f3b07922dd016a2177df07f63a7a6d49a04",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-29.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "8f065214e94daa44b296adef2665fa869ac85a8ae13e432c9460a69133dc4a86",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-66.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "728c99e58b1a3505bfe6b75f4800f51e38610d9329f3388998c01b24f2d426fa",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-68.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "0c256bc3c555f13fe339585f4266bf414e43b66836ac5591159bcf8afebc981d",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-70.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "29dc075c6d0c2a0901755fe28778cfb5bd7ee605b7887c283aa4f73245ad7e4b",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-71.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "56f2b9966798cdc2f7ec25946347efebf1276c1f49b3dca02e514580ec18c0dd",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-73.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "09b12260382e225cb63d3436fab59f45883ae481b9a0e8de067661496d51b625",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-87.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "6c2d4416ab317bb552ba79c46fa8479b61c3914c2519f89edfd4ce6b18185324",
+      "upstream_path": "微信网友贡献表情包_暂存_有时间慢慢整理BQB/webwxgetmsgimg-90.jpg",
+      "reason": "unclear_or_low_confidence"
+    },
+    {
+      "sha256": "d7ae378c1b50f3d683f8a32504da4ce4c5e6c99f59420319508af0e55e87bd37",
+      "upstream_path": "斗图之王BQB/斗图之王00003.gif",
+      "reason": "unclear_or_low_confidence"
+    }
+  ]
+}
